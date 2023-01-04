@@ -1,5 +1,4 @@
 // AR RoboTics
-//https://youtu.be/GNw7R8jCGMc
 //https://youtube.com/@ARRoboTics
 #include <EEPROM.h>
 #include <SoftwareSerial.h>
